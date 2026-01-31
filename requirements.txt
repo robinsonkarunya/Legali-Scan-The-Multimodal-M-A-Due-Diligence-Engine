@@ -3,3 +3,4 @@ streamlit
 python-dotenv
 pillow
 PyPDF2
+fpdf2
